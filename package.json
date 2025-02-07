@@ -1,0 +1,24 @@
+{
+  "name": "docusaurus-v3-firebase-auth",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "serve": "docusaurus serve"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^3.7.0",
+    "@docusaurus/preset-classic": "^3.7.0",
+    "@docusaurus/theme-classic": "^3.7.0",
+    "firebase": "^9.17.2",
+    "prism-react-renderer": "^2.4.1",
+    "process": "^0.11.10",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.4.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
